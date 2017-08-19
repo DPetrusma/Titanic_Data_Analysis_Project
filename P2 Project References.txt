@@ -1,0 +1,5 @@
+This is the list of resources I referred to:
+http://stackoverflow.com/questions/28931224/adding-value-labels-on-a-matplotlib-bar-chart
+http://matplotlib.org/examples/api/barchart_demo.html
+http://stackoverflow.com/questions/23377108/pandas-percentage-of-total-with-groupby
+https://github.com/mwaskom/seaborn/issues/917
